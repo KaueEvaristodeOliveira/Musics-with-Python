@@ -8,12 +8,6 @@ winsound.Beep(1000, 60)
 time.sleep(0.5)
 winsound.Beep(1000, 60)
 time.sleep(0.5)
-winsound.Beep(100, 240)
-time.sleep(0.5)
-winsound.Beep(1000, 60)
-time.sleep(0.5)
-winsound.Beep(1000, 60)
-time.sleep(0.5)
 
 #First Part
 winsound.Beep(220, 780)#A-cima
