@@ -1,7 +1,11 @@
 import winsound
 import time
 
+<<<<<<< Updated upstream
 #INTRO
+=======
+#Intro
+>>>>>>> Stashed changes
 winsound.Beep(100, 240)
 time.sleep(0.5)
 winsound.Beep(1000, 60)
